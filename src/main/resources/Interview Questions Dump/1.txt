@@ -1,0 +1,120 @@
+Core Java questions
+1. What is the difference between final, finally & finalize ?
+2. Can we overload static methods, Explain with Example?
+3. Difference between static binding & dynamic binding ?
+4. Difference between List & Set ?
+5. Difference between Exceptions & Error?
+6. What are Checked & Unchecked Exception ?
+7. What is co-variant data types ?
+8. Suppose if Parent class is throwing an Exception, What exception a child can throw ?
+9. What is Compile Time & Runtime Exception ?
+10. At what condition you need to handle the exception, explain with example ?
+11. Java 8 concepts
+12. Functional interfaces and its usage
+13. Lamda expression
+14. Filter list of emp whose salary  greater than 50k in Java 8
+15. Exception handling and hash map internal functionality in Java 8
+16. Comparator and comparable
+17. Singleton class And string immutable concept
+18. Java 8 Version features and which using in project, from Basics to Scenario .stream API
+19. Functional interface
+20. Lamda expression
+21. Java 8 functions and streams
+22. Java basics on collections(concurrent hash map)
+
+
+1. String builder vs String buffer?
+2. what if we use final keyword for abstract class? can we use it?
+3. Spring MVC architecture
+4. How Controller class defines which services to be called in MVC?
+5. Services used in Micro services?
+6. Actuator?
+7. Heap memory and Stack memory?
+8. How to control Memory leakage?
+9. Bean Life cycle?
+10. Why dependency injection?
+11. types of Stream?
+12. Example of Function Interface and usage inn your project?
+13. Stages in Jenkin Ci / CD pipeline?
+14. API gateway usage?
+15. Profiles used in your project?
+16. How to generate credentials for your DB which is used in your project?
+17. Immutable class?
+
+ Microservices
+Communicate between two microservice?
+Rest template methods
+12 factors in microservice
+Load balancing in your application
+Security used in your application
+Optional keyword
+Http request status types and uses
+Post vs put
+Scenario based questions like create a spring boot application on the mentioned scenario
+OOPs concepts
+Functional interface
+String concepts0
+AWS S3 (Added advantage)
+Spring boot uses
+Spring boot annotations
+Angular basic concepts
+Description about the project
+
+
+Springboot :
+Difference between spring & Springboot , and its advantages
+Real scenario with Agile, how it is used in project.
+About Spring Security
+DB Senario based questions
+Spring boot annotations
+Spring boot auto wired
+Two dimensional array – one dimensional array
+ Spring boot configurations and dependency basics
+Configure Routes
+Configure env files
+Two way binding
+How to handle http call
+Observables
+How to deploy an app
+explain ur exp in spring boot
+multi thread
+JDBC connections
+Connection pool & DB
+Performance improvement of query
+how to handle in clause for 10k records in subquery
+How to disable active session and how to check it in code, db
+Test driven approach
+Unit , integration testing
+Validation in spring boot
+Exception handling of those validations
+Ur strength nd weakness
+Questions related to previous projects
+Achievements
+Why microservices
+Cascading
+Cassandra vs Rdb
+Spring security
+Java version 7 or 8 features
+Difference between interface and abstract class
+Advantages of Springboot and it's features
+What are spring profiles
+How did you configure the profiles
+List few annotations in Springboot
+How to connect to databases
+What is springjpa
+CI/CD configuration explanation in my project
+How to check the code quality
+Types of join queries
+How to configure composite key
+
+Spring boot annotations in main file
+Spring Boot vs spring MVC
+3.authention n Authorization for resat services .  Oauth2 or any..
+Db configuration
+Get n load diff in jpa
+FindById and get() method difference in spring jpa
+How to use Profiles and what is its significance ?
+Can you make a connection of 2 databases in a springboot application ?
+What is RowMapper?
+What are the different bean scopes available in SpringBoot ?
+How does Spring Boot application starts ?

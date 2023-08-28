@@ -1,0 +1,126 @@
+1. Why can't multiple inheritance be achieved in java?
+2.why string is immutable?
+3.how to create a custom immutable class?
+4.what is the marker interface?
+5.Diff between interface and Abstract class?
+6.Where are we going to use interface and Abstract?
+7.Method overloading and Overriding diff?
+8.Diff between Linked ArrayKist and Linked list?
+9. Right scenario to use list and set interface?
+10.Internal working of map interface?
+11.what is concurrent modification exception?
+12.What is an exception and how to handle it?
+13.is it possible to write finally block without catch block?
+14.diff between checked and unchecked exceptions?
+15. How to create custom exceptions?
+16. throw vs throws keyword?
+17. Java 8 future?
+18.Functional interface
+19.Stream Api Questions on stream methods
+
+Program
+
+1. Write the pseudocode for all the OOPS concept
+2. write the program to find maximum occurrence  by given character?
+
+Spring boot & Micro services
+
+1.How spring boot works?
+2.Frequently used annotations and its use?
+3.What are qualifier annotations?
+4.How to get the single value and group of values from the application property file?
+5.What is dependency injection?
+6.What is Autowired?
+7.Why Constructor injection does not handle Cy dependency?
+8.How to communicate between two micro services?
+9.Pro and cons of microservice?
+10.what is a singleton design pattern?
+11.What kind of design pattern is used in your current project?
+12.Post vs put?
+13.Spring security
+14.Spring Boot vs spring MVC
+15.Can you make a connection of 2 databases in a spring boot application ?
+
+
+SQL
+
+1. Scenario based join query?
+2. Where are we going to use the " Having " keyword?
+3.What is sql injection?
+4.Seconario based like keyword query
+5.Seconario based aggregate function query
+6.how to handle in clause for 10k records in subquery
+
+Devops
+
+1.What is git?
+2.Basic operation of git?
+3.Basic of jenkins server?
+4.How to configure github with jenkins server?
+5.How to handle the Conflicts while doing code merging?
+6.Stages in the Jenkin Ci / CD pipeline?
+
+Angular js
+
+1. What is SPA(Single Page Application)?
+2.Define Scope in AngularJS?
+3.Explain the data binding process in AngularJS?
+4.What is an AngularJS module?
+
+Current Project?
+
+1.Current project roles and Responsibility?
+2.Explain about all previously worked projects?
+3.What kind of methodology is used in your current project?
+4.How to monitor day to day activity?
+5.Where you get the task details and who will assign to you task?
+6. Project group size?
+7.How to maintain code in your current project?
+
+MicroServices:
+1) How does communication take place between Microservices?
+2) How does the Discovery Client work?
+3) What do you understand about Zuul?
+4) What is the use of containers in Microservices?
+5) API Gateway and its features
+
+Springboot:
+6) How can you configure Spring Boot application login?
+7) What is the main difference between SOA and the Microservices Architecture?
+8) Actuator in springboot
+9) Spring profiles and how to configure
+10) JWT authentication
+11) Open feign client vs Resttemplate
+12) @postconstruct vs @predestroy
+13) @Bean vs @SpringbootApplication
+14) @Responsebody
+15) @controlleradvice vs @restcontrolleradvice
+
+
+Core Java
+1) Interceptors
+2) Immutable class
+3) String pool and literals – difference
+4) Java 8 Streams – coding question
+5) What are Functional Interfaces?
+6) What is the difference between the Collection API and Stream API?
+f7) Hash collision
+8) Singleton and prototype(Scope of Beans)
+
+Jquery:
+1) How will you make ajax call as synchronous?
+
+MySQL and Hibernate:
+1) Is SessionFactory a thread-safe object?
+2) Hibernate – configuration
+3) Transactions in java
+
+What is Used annotations in Spring boot.
+Difference between been and   service annotations.
+How you will manage application in different profile.
+How we secure rest request
+Different way to secure application.
+How JWT token work
+How you will increase performance of system
+Where you will define dB credentials details
+How you will make secure dB credentials

@@ -1,0 +1,67 @@
+PFB Consolidated interview Questions:
+
+Introduction presummary
+Ur project and what u did in angular part
+Angular concepts
+Lifecycle hooks
+Component Decorators -@Component
+Pipes used
+how u will communicate between components - @Input & @Output
+Promises & Observable
+SpringBoot
+how will u communicate between backend and frontend
+which template u used in ur project
+@RestController
+@SpringBootApplication
+Different Http Methods
+@RequestMapping vs @GetMapping
+how to check whether record is exist or not ?
+Equal vs ==
+working of hashmap
+Garbage collection
+memory leaks and performance issues u faced how we can resolve
+Trigger have u used in sql
+Oracle db ?
+Projects related discussion tool
+Scenario:
+Consider if a cab is available if one person can onboard  at one stop maximum 3 person can be onboarded. If 4 th person try to onboard we should give message like cab is full.
+Code for creating rest end point with path variable
+Then status code for success, creating new resource, internal server error, bad request.
+ConcurrentHashMap
+Multiple questions on Java8 features
+Spring Boot annotations
+RestController vs Controller
+Collections - internal working of HashMap, HashSet vs HashMap
+REST API methods
+PCF deployment
+Junit
+mockito (no questions but checked if i had worked)
+dependecy injection in layman term
+Example for open and closed, Single Responsibility principle
+3.@Functional Interface
+Interface interfacename{
+Public int calc(int a, intb) ;
+}
+Provide implementation for the above functional interface using lambda expression
+Gave me a Arraylist and asked me write java 8 code to print only the numbers that are divisible by 3
+If two servers are there and a application is deployed in two servers and if user logins to those servers multiple times where do you keep the counter which will have the count of logins by the user
+About Array list, linked list, Hash set
+About Hash Map
+Features of java 8
+Parallel stream
+Benefit of using spring boot
+About spring cloud and profiles
+
+What is Abstraction?
+What are the collections? explain it?
+Different between Array List and Linked list?
+Different between Hash Map and Set?
+What is the java 8 features?
+What is the Stream Api?
+Where did you use java 8 features in your project?
+Write a query to find second highest salary in employee table?
+Find the Nth highest salary from a table?
+What is sub query?
+What is joins? Different types of joins?
+What is left join and right join?
+Which one is the Best Sub Query and Joins?

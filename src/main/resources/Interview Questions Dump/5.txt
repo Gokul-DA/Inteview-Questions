@@ -1,0 +1,105 @@
+Spring boot-
+1. Stereotype annotations and their working
+2. How does auto configuration works
+3. Autowiring
+4. Exception handling
+5. Different annotations and their usage
+6. Spring boot features and advantages
+6. Working of dependency injection and inversion of control
+
+Java 8:
+1. Features of java 8
+2. Lambda function
+3. Functional interface
+4. Stream amd collections api
+5. Map vs flatmap
+6. Method reference
+
+
+TDD & Junit
+1. Junit annotations
+2. How to do TDD and its advantages.
+3. Mockito annotations amd usages
+4. When to mock and when to not use mocks/spy
+5. Advantages/disadvantages of mocking
+
+Java
+
+------------
+1. What is the functional interface used by filter method in streams
+2. Lambda expression and method expression are the same ?
+3. Why do we need method expression ?
+4. What are intermediate methods?
+5. What is a consumer in a functional interface?
+6. Does two classes extends same interface, when auto wiring interface into another class will it work?
+    Class A implements B
+    Class C implements B
+        Will you be able to do  autowired the B in the another class?(Bean ambiguity)
+7. Consumer vs supplier?
+
+ Springboot
+
+------------------
+1. @component vs @bean
+2. Bean lifecycle
+3. What is spring data jpa
+4. How to get all the registered beans in springboot
+5. What is dependency injection?
+
+React js
+-------------
+1. What is virtual dom?
+2. What is useState?
+3. React vs angular. Why we need react?
+4. What are all ways to pass data from child to parent?
+
+BFF pattern
+how jwt works
+Conditional annotation
+concurrent API
+Java 8 Streams API
+functional interface types, and example
+terminal operator
+java 8 program
+spring security
+@validated annotation
+dependency injection
+how to get all the beans in springboot
+
+
+Will the below code work?
+--
+@Component
+classA {
+    @Autowired
+    classB objB;
+}
+
+@Component
+classB{
+    @Autowired
+    classD objD;
+}
+
+@Component
+classD {
+    @Autowired
+    classA objA;
+}
+
+--
+
+SQL question - Write a sql query to find out number of certifications done by an employee
+Stream api filter method example
+Interfaces and their use
+Collection interfaces
+Working of Hashmap
+Sql queries
+Java 8 Concepts
+Collection frameworks
+Database connectivity
+Springboot annotations
+Why springboot
+Exceptions class
+Angular component
+Angular commands

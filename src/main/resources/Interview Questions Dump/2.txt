@@ -1,0 +1,84 @@
+Java :
+1. Can an abstract class be declared final?
+2. For concatenation of strings, which method is good?
+3. Does HashMap allow null value?
+4. Which of the following combination is not correct?
+5. Which statement is used to execute stored procedure?
+6. Does Java support multiple inheritance?
+7. Which of the following is an example of Polymorphism?
+8. What is the return type for executeQuery() method?
+9. Can a final variable be declared inside a method?
+10. What is the base class of all exceptions?
+11. Can abstract class have non-abstract methods?
+12. Which modifier is used to prevent a method from being overridden?
+13. Which of the following is not a Wrapper Class?
+14. If you are overriding equals() method of a class, what other methods you might need to override ?
+15. Which is a reserved word in the Java programming language?
+16. Does HashMap allow null value?
+17. Which of the following variable can not be Serialized?
+18. Which interface is used for getting ordered collection ofObjects?
+19. Can there be an abstract class with no abstract methods in it?
+20. What value does readLine() return when it has reached the end of a file?
+21. When a thread blocks on I/O, what state does it enter?
+22. Which of the following is an example of Polymorphism?
+23. Can a final variable be declared inside a method?
+24. What is the base class of all exceptions?
+25. Interface contains which methods?
+26. If you are overriding equals() method of a class, what other methods you might need to override ?
+27. Which interface is used to save the Object in a file?
+
+
+
+
+
+Spring Concepts :
+1. What are the types of Dependency Injection Spring supports?
+2. How singleton bean initialized lazily?
+3. Which Module in spring offers a meaningful exception hierarchy for managing the exception handling and error messages?
+4. Is Spring a Portable Application?
+5. Which exception thrown by the Spring DAO classes ?
+6. What are the types of the transaction management Spring supports ?
+7. Which module of Spring is used for building Web applications?
+8. Which module in spring is used for managing the state between pages in a flow?
+9. Which module provides context information to the Spring framework?
+10. Which logging framework is used for providing logging support in Spring?
+
+
+
+1. What are the types of Dependency Injection Spring supports?
+2. How singleton bean initialized lazily?
+3. Which Module in spring offers a meaningful exception hierarchy for managing the exception handling and error messages?
+4. Is Spring a Portable Application?
+5. What are the exceptions thrown by the Spring DAO classes ?
+6. What are the types of the transaction management Spring supports ?
+7. Which module of Spring is used for building Web applications?
+8. Which module in spring is used for managing the state between pages in a flow?
+9. Which module provides context information to the Spring framework?
+10. Which logging framework is used for providing logging support in Spring?
+11. Does Spring Framework support Transaction context propagation across remote calls ?
+12. How do you configure Spring in a web application?
+13. How do you configure your database driver in Spring?
+14. How can you configure JNDI instead of datasource in Spring applicationcontext.xml?
+15. How do you define hibernate mapping file in Spring?
+16. List few Modules in Spring?
+
+Webservices :
+1.      WSDL stands for?
+2.      Can I access a web services from any application?
+3.      What are the two types of Web Services?
+4. Which of the following is a directory service where enterprises register and search for web services?
+5. Which of the following is used to perform remote procedure calls in web services?
+6. What are the web service platform elements?
+7. Which of the following is used to locate and describe web services?
+8.  In WSDL a <port> refers to
+9. Can I access a web services from any application?
+10. What are the two types of Web Services?
+11. Which of the following is a directory service where enterprises register and search for web services?
+12. Which of the following is used to perform remote procedure calls in web services?
+13. What are the web service platform elements?
+14. Which of the following is used to locate and describe web services?
+15. UDDI is a registry and a repository
+16. Java API for XML Parsing (JAXP) is
+17. Canonical XML specification is used to
+
+
